@@ -10,6 +10,9 @@ Template repository for UC ITS capstone projects source code. For more informati
 
 ## Project Information
 
+Despite the burgeoning literature on prompt engineering techniques in natural language processing (NLP), a critical gap exists in understanding their applicability in the realm of tech education. This study aims to address this gap by investigating how various
+prompt engineering approaches can be leveraged to enhance large language models (LLMs) for educational purposes within the technology domain.
+
 We built a framework that explores different prompt engineering techniques and how to craft them effectively to generate desired code generation outputs from the LLMs. By conducting the experiments using this framework, we can improve how LLMs generate code, making it more accurate and relevant to the task.
 
 ## Documentation
