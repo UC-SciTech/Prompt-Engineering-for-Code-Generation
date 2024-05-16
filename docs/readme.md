@@ -15,6 +15,8 @@ We built a framework that explores different prompt engineering techniques and h
 ## Exploratory Data Analysis
 Exploratory Data Analysis (EDA) was performed by summarising key statistics, visualising trends, and identifying potential outliers or patterns from the compiled results of all conducted experiments for this project.
 
+The [`./EDA`] EDA folder contains 3 csv files of compiled results for experiments conducted for Zero Shot, Few Shot, Chain of Thought prompting. The PromptEng_CodeGen_EDA.ipynb was created to conduct EDA and data visualization for the following research problems.
+
 ### Research Problems
 1. Which model performs best (highest accuracy, F1 score, etc.) across different datasets (HumanEval, BIG Bench, MBPP)?
 2. How does the performance of each model vary depending on the technique used (CoT, Zero Shot, Few Shot)?
