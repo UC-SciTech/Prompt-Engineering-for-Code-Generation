@@ -8,25 +8,13 @@
 
 Template repository for UC ITS capstone projects source code. For more information see the [getting started](./docs/getting-started-with-source-control.md).
 
-## Instructions
-
-1. ***Instructors or Staff*** - Create a new repo using this [Template Repo](https://github.com/new?template_name=its-capstone-repo-template&template_owner=UC-SciTech)
-1. Choose a **meaningful** name for the repository
-1. Update the `cs-project.yaml` with your project information
-1. Update the `AUTHORS` file with your team members
-1. Update the `README.md` file with your project information
-1. read the `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` files
-1. Update the `docs/readme.md` file with your project documentation
-1. Update the `NOTICE` file with any third party source
-1. Remove these instructions from the `README.md` file
-
 ## Project Information
 
-Fill in a brief description of your project here...
+We built a framework that explores different prompt engineering techniques and how to craft them effectively to generate desired code generation outputs from the LLMs. By conducting the experiments using this framework, we can improve how LLMs generate code, making it more accurate and relevant to the task.
 
 ## Documentation
 
-Use the [`./docs`](./docs/readme.md) folder to store project documentation using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github).
+The [`./docs`](./docs/readme.md) folder contains the documentation to navigate through project information and experiment jupyter notebook files denoted in .ipynb
 
 ## Helpful Links
 
