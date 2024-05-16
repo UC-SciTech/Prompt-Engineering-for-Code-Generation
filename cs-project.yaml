@@ -1,7 +1,7 @@
-# enter the details of the project here
-project:
-  name: ''
-  code: ''
-  year: ''
-  description: ''
-  supervisor: ''
+project: 
+  name: 'Empowering Tech Education: Harnessing Prompt Engineering Techniques in Large Language Models'
+  code: '2024-S1-50'
+  year: '2024'
+  description: 'Exploring the Potential, Limitations, and Techniques of Prompt Engineering in Natural Language Processing within Large Language Models in the context of Technology Education'
+  mentor: 'Yasaman Baradaran'
+  sponsor: 'Tony Kwan'
