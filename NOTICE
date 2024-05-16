@@ -1,9 +1,8 @@
 # Notice
 
-Ensure to disclose all use of third party source and cite them appropriately
+This project uses the following third party source
 
-**For example:**
-
-## This project uses the following third party source
-
-1. [Third Party Source](https://example.com)
+1. HumanEval Dataset - https://huggingface.co/datasets/openai_humaneval
+2. BIG-bench Dataset - https://github.com/google/BIG-bench
+3. MBPP Dataset - https://huggingface.co/datasets/mbpp
+4. Proper citing and referencing were included in both the final report and literature review for this project.
